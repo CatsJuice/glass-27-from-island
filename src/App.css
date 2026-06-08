@@ -1,0 +1,8 @@
+.liquid-glass-stage {
+  display: block;
+  width: 100vw;
+  height: 100svh;
+  min-height: 100vh;
+  cursor: crosshair;
+  touch-action: none;
+}
